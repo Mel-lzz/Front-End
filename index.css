@@ -37,3 +37,13 @@ button {
 #save-btn {
     background: palevioletred;
 }
+
+
+#name{
+    
+    display: flex;
+    justify-content: left;
+    align-items: flex-start;
+    text-shadow: 0, 0, 4px , palevioletred;
+   
+}
